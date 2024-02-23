@@ -9,7 +9,7 @@ var getItDoneToday = document.getElementById("first")
 function rmDelButton(){
 	input.disabled = false
 	var delButton = document.querySelectorAll('.delButton')
-	
+
 	for(var i=0; i<delButton.length; i++){
 		delButton[i].remove()
 	}
@@ -22,7 +22,7 @@ var editList = function() {
 	input.disabled = true
 
 
-	
+
 	if(document.getElementsByTagName("li")[0].children.length === 1){
 		var allDelButton = document.querySelectorAll(".delButton")
 		var li = document.getElementsByTagName("li")
@@ -30,16 +30,16 @@ var editList = function() {
 		for(var index =0; index<li.length; index++){
 			li[index].removeEventListener("click", allDelButton[index].remove)
 	}
-		
-		
+
+
 		rmDelButton()
 		return
 	}
-	
+
 	var li = document.getElementsByTagName("li")
 
 	for(var i=0; i<li.length; i++){
-		
+
 		var delButton = document.createElement("input")
 		delButton.type = "button"
 		delButton.value = "X"
@@ -47,9 +47,9 @@ var editList = function() {
 		delButton.id ="delButton"+i
 		li[i].append(delButton)
 	}
-	
+
 	var allDelButton = document.querySelectorAll(".delButton")
-	
+
 	li[0].addEventListener("click", allDelButton[0].remove)
 	li[1].addEventListener("click", allDelButton[1].remove)
 	li[2].addEventListener("click", allDelButton[2].remove)
@@ -61,10 +61,10 @@ var editList = function() {
 	li[8].addEventListener("click", allDelButton[8].remove)
 	li[9].addEventListener("click", allDelButton[9].remove)
 	li[10].addEventListener("click", allDelButton[10].remove)
-	
-	
 
-	
+
+
+
 }
 
 
@@ -98,7 +98,7 @@ function addListAfterKeypress(event) {
 
 function toOnOffUl() {
 
-    
+
     switch(ul.style.display){
         case "none": ul.style.display = ""; editButton.style.display = ""; input.disabled = false
             break
