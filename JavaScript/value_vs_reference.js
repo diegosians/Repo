@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-    <link rel="shortcut icon" href="https://icons.iconarchive.com/icons/hopstarter/adobe-cs4/48/File-Adobe-Dreamweaver-JavaScript-icon.png" type="image/x-icon">
 
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <script type="text/javascript">
 //Evaluate these:
 //#1
 //[2] === [2] // false perche è una struttura dati quindi reference tramite variabile o costante
@@ -74,8 +64,3 @@ setTimeout(()=>{mucca.muore()}, 10000)
 
 
 
-
-
-    </script>
-</body>
-</html>l
