@@ -1,12 +1,10 @@
 import React from 'react';
-import ReactDOM from 'react-dom'
-import CardList from './CardList.js'
+import {createRoot} from 'react-dom/client'
+import App from './App'
 import './index.css';
-import {robots} from "./robots"
 import "tachyons";
 
 
-ReactDOM.render(
-  <CardList robots = {robots}/>
-  ,document.getElementById('root')
-);
+const container= document.getElementById('root')
+const root = createRoot(container)
+root.render(<App />);

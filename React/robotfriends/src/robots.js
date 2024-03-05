@@ -1,61 +1,61 @@
 export const robots = [
     {
         id: 1,
-        nome: "Bear Grills",
+        name: "Bear Grills",
         username: "bret",
         email: "orsogrigliata@gmail.com"
     },
     {
         id: 2,
-        nome: "Gioele Doe",
+        name: "Gioele Doe",
         username: "Ciliegio",
         email: "ciliegio.11@gmail.com"
     },
     {
         id: 3,
-        nome: "Lara Croft",
+        name: "Lara Croft",
         username: "user11",
         email: "name123@gmail.com"
     },
     {
         id: 4,
-        nome: "Federico Mele",
+        name: "Federico Mele",
         username: "Funmade",
         email: "example@gmail.com"
     },
     {
         id: 5,
-        nome: "Lenovo Vivobook",
+        name: "Lenovo Vivobook",
         username: "microsoft",
         email: "microsoft@gmail.com"
     },
     {
         id: 6,
-        nome: "Umberto Primo",
+        name: "Umberto Primo",
         username: "UserName",
         email: "canta11@gmail.com"
     },
     {
         id: 7,
-        nome: "Simone Limone",
+        name: "Simone Limone",
         username: "Gino",
         email: "contattonumero9@gmail.com"
     },
     {
         id: 8,
-        nome: "Niccolo Romano",
+        name: "Niccolo Romano",
         username: "NKLO",
         email: "abcd1234@gmail.com"
     },
     {
         id: 9,
-        nome: "Erbaiolo Parrucchi",
+        name: "Erbaiolo Parrucchi",
         username: "nocapelli",
         email: "robotsenzapile@gmail.com"
     },
     {
         id: 10,
-        nome: "Otto Lucattini",
+        name: "Otto Lucattini",
         username: "coiote",
         email: "abghf@gmail.com"
     }
