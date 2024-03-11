@@ -1,15 +1,3 @@
-<!DOCTYPE html>
-<html lang="it">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="shortcut icon" href="https://icons.iconarchive.com/icons/hopstarter/adobe-cs4/48/File-Adobe-Dreamweaver-JavaScript-icon.png" type="image/x-icon">
-</head>
-<body>
-    <script type="text/javascript">
-
-
 
 let jurassicParck = [["sorpione", "mosca"], "batterio", "tartaruga", [[[["dinosauro"]]]]]
 // console.log(jurassicParck.flat(4))
@@ -36,10 +24,4 @@ let userProfilesObject = Object.fromEntries(userProfiles) // converte un elenco 
 
 // console.log(Object.entries(userProfilesObject))
 // Object.entries(userProfilesObject) questo metodo invece esegue l'operazione inversa
-
-
-    </script>
-</body>
-</html>
-
 
