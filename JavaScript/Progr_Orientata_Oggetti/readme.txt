@@ -1,0 +1,1 @@
+fornirsi di node, ed esegui ogni script con il comando "node script.js" sul terminale
