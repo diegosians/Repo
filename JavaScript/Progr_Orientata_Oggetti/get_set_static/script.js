@@ -17,7 +17,6 @@ class Persona{
     }
 }
 
-
 const p1 = new Persona("Luca", 1994)
 
 // esempio funzionamento metodo get

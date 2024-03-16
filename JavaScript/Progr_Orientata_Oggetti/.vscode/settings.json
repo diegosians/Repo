@@ -1,7 +1,4 @@
 {
-    "cSpell.words": [
-        "Nascita",
-        "saluta",
-        "sono"
-    ]
+    "git.confirmEmptyCommits": true,
+    "git.postCommitCommand": "none"
 }
