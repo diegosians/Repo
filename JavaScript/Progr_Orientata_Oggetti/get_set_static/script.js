@@ -1,27 +1,28 @@
-class Persona {
-    constructor(name, annoNascita){
+class Persona{
+    constructor(name, birthYear){
         this._nome = name
-        this.annoNascita = annoNascita
+        this._annoNascita = birthYear
     }
 
-    get eta(){
-        return 2024 - this.annoNascita
-    }
     get nome(){
         return this._nome
     }
-    set nomeCompleto(n){
-        this._nome = n
+
+    set nome(name){
+        this._nome = name
     }
-    // Un metodo statico è una proprieta che appartiene solo alla classe
+    // una proprieta statica è una proprieta che appartiene solo alla classe
     static saluta(){
         console.log("Ciao mondo, sono la persona")
     }
 }
 
-const mario = new Persona("Mario", 1999)
-// console.log("età di Mario:",mario.eta)
-mario.nomeCompleto = "Susanna"
-// console.log("ora si chiama", mario.nome)
 
+const p1 = new Persona("Luca", 1994)
+
+// esempio funzionamento metodo get
+console.log(p1.nome)
+// esempio funzionamento attributo set
+console.log(p1.nome="marco")
+// esempio funzionamento metodo statico
 Persona.saluta()
