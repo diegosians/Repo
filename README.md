@@ -30,7 +30,7 @@ npm run build
 
 ### Esecuzione script, ad esempio Orientati agli oggetti
 #### Apri le cartelle in questo ordine
-|Repo -->|JavaScript -->|Progr_Orientata_Oggetti -->|
+|Repo -->|JavaScript -->|Progr_Orientata_Oggetti|
 |:--:|:--------:|:---------------------:|
 ```sh
 cd Repo/JavaScript/Progr_Orientata_Oggetti
