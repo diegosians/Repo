@@ -10,7 +10,7 @@ Implemento applicazioni in **React.js** e presto anche fullstack in **Node** com
 
 
 |Repo  |
-|---------|
+|-----------------------------|
 | HTML/CSS| JavaScript|  React|
 
 ```sh
