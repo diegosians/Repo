@@ -1,4 +1,4 @@
-# My web develop
+# My web development
 
 
 Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** in programmazione funzionale e paradigma di programmazione orientato agli oggetti (OOP)  commentati;
