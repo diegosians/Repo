@@ -9,9 +9,11 @@ Implemento applicazioni in **React.js** e presto anche fullstack in **Node** com
 ### Necessario scaricare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
 
 
-|  |Repo||
-|---------|----|---|
-| HTML/CSS| JavaScript| React|
+|Repo|
+|---------|
+| HTML/CSS|
+| JavaScript|
+| React|
 
 ```sh
 cd Repo/React/robofriends
