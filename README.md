@@ -8,7 +8,7 @@ Implemento applicazioni in **React.js** e in **Node** come back-end.
 ## Necessario installare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
 ### Esecuzione progetti react
 
-
+#### Apri le cartelle in questo ordine
 |Repo -->| React -->|robofriends|
 |:--:|:----:|:---------:|
 
@@ -29,7 +29,8 @@ npm run build
 
 
 ### Esecuzione script, ad esempio Orientati agli oggetti
-|Repo|JavaScript|Progr_Orientata_Oggetti|
+#### Apri le cartelle in questo ordine
+|Repo -->|JavaScript -->|Progr_Orientata_Oggetti -->|
 |:--:|:--------:|:---------------------:|
 ```sh
 cd Repo/JavaScript/Progr_Orientata_Oggetti
