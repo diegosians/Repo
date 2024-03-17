@@ -5,15 +5,14 @@ Salve! come si può intuire dal titolo, questo è il repository che uso per cari
 Implemento applicazioni in **React.js** e presto anche fullstack in **Node** come back-end. 
 
 
-## Installazione ed esecuzione progetti react
-### Necessario scaricare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
+## Necessario scaricare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
+### Installazione ed esecuzione progetti react
 
 
 |Repo|
 |---------|
-| HTML/CSS|
-| JavaScript|
 | React|
+|robofriends|
 
 ```sh
 cd Repo/React/robofriends
@@ -32,6 +31,11 @@ npm run build
 
 
 ### Esecuzione script, ad esempio Orientati agli oggetti
+|Repo|
+|---------|
+| JavaScript|
+|Progr_Orientata_Oggetti|
+
 ```sh
 cd Repo/JavaScript/Progr_Orientata_Oggetti
 cd "cartella a scelta"
