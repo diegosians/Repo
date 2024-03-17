@@ -38,7 +38,11 @@ npm run build
 
 ```sh
 cd Repo/JavaScript/Progr_Orientata_Oggetti
+```
+```sh
 cd "cartella a scelta"
+```
+```sh
 node script.js
 ```
 
