@@ -1,7 +1,7 @@
 # My web develop
 
 
-Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** commentati in programmazione funzionale e paradigma di programmazione orientato agli oggetti (OOP);
+Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** in programmazione funzionale e paradigma di programmazione orientato agli oggetti (OOP)  commentati;
 Implemento applicazioni in **React.js** e in **Node** come back-end. 
 
 
