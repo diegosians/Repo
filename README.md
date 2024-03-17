@@ -9,10 +9,8 @@ Implemento applicazioni in **React.js** e in **Node** come back-end.
 ### Esecuzione progetti react
 
 
-|Repo|
-|:---------:|
-| React|
-|robofriends|
+|Repo| React|robofriends|
+|:--:|:----:|:---------:|
 
 ```sh
 cd Repo/React/robofriends
