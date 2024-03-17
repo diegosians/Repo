@@ -18,6 +18,8 @@ Implemento applicazioni in **React.js** e presto anche fullstack in **Node** com
 
 ```sh
 cd Repo/React/robofriends
+```
+```sh
 npm start
 ```
 
