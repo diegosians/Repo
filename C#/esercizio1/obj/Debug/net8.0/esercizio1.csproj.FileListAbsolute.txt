@@ -1,0 +1,15 @@
+/home/diego/Documenti/Repo/C#/esercizio1/bin/Debug/net8.0/esercizio1
+/home/diego/Documenti/Repo/C#/esercizio1/bin/Debug/net8.0/esercizio1.deps.json
+/home/diego/Documenti/Repo/C#/esercizio1/bin/Debug/net8.0/esercizio1.runtimeconfig.json
+/home/diego/Documenti/Repo/C#/esercizio1/bin/Debug/net8.0/esercizio1.dll
+/home/diego/Documenti/Repo/C#/esercizio1/bin/Debug/net8.0/esercizio1.pdb
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.AssemblyInfoInputs.cache
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.AssemblyInfo.cs
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.csproj.CoreCompileInputs.cache
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.sourcelink.json
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.dll
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/refint/esercizio1.dll
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.pdb
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/esercizio1.genruntimeconfig.cache
+/home/diego/Documenti/Repo/C#/esercizio1/obj/Debug/net8.0/ref/esercizio1.dll
