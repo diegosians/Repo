@@ -9,10 +9,10 @@ Implemento applicazioni in **React.js** e in **Node** come back-end.
 ### Esecuzione progetti react
 
 #### Apri le cartelle in questo ordine
-| - Repo|
+|Repo|
 |:---------:|
-| - React|
-| - robofriends|
+|React|
+|robofriends|
 
 ```sh
 cd Repo/React/robofriends
