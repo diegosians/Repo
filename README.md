@@ -9,8 +9,10 @@ Implemento applicazioni in **React.js** e in **Node** come back-end.
 ### Esecuzione progetti react
 
 #### Apri le cartelle in questo ordine
-|Repo -->| React -->|robofriends|
-|:--:|:----:|:---------:|
+|Repo|
+|:---------:|
+| React|
+|robofriends|
 
 ```sh
 cd Repo/React/robofriends
@@ -30,8 +32,11 @@ npm run build
 
 ### Esecuzione script, ad esempio Orientati agli oggetti
 #### Apri le cartelle in questo ordine
-|Repo -->|JavaScript -->|Progr_Orientata_Oggetti|
-|:--:|:--------:|:---------------------:|
+|Repo|
+|:---------:|
+| JavaScript|
+|Progr_Orientata_Oggetti|
+
 ```sh
 cd Repo/JavaScript/Progr_Orientata_Oggetti
 ```
