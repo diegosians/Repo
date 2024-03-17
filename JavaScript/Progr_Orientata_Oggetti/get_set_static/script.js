@@ -19,7 +19,7 @@ class Persona{
 
 const p1 = new Persona("Luca", 1994)
 
-// esempio funzionamento attributo get
+// esempio funzionamento metodo get
 console.log(p1.nome)
 // esempio funzionamento attributo set
 console.log(p1.nome="marco")
