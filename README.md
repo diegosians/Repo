@@ -10,7 +10,7 @@ Implemento applicazioni in **React.js** e presto anche fullstack in **Node** com
 
 
 |Repo|
-|---------|
+|:---------:|
 | React|
 |robofriends|
 
@@ -32,7 +32,7 @@ npm run build
 
 ### Esecuzione script, ad esempio Orientati agli oggetti
 |Repo|
-|---------|
+|:---------:|
 | JavaScript|
 |Progr_Orientata_Oggetti|
 
