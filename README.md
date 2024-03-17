@@ -1,8 +1,8 @@
 # My web develop
 
 
-Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** commentati dalla programmazione funzionale al paradigma di programmazione orientato agli oggetti (OOP);
-Implemento applicazioni in **React.js** e presto anche fullstack in **Node** come back-end. 
+Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** commentati in programmazione funzionale e paradigma di programmazione orientato agli oggetti (OOP);
+Implemento applicazioni in **React.js** e in **Node** come back-end. 
 
 
 ## Necessario scaricare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
