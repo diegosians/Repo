@@ -40,7 +40,11 @@ npm run build
 cd Repo/JavaScript/Progr_Orientata_Oggetti
 ```
 ```sh
-cd "cartella a scelta"
+ls
+```
+dopo *ls* visualizzerai le cartelle esistenti, seleziona quella desiderata e copiala
+```sh
+cd "incolla nome cartella"
 ```
 ```sh
 node script.js
