@@ -5,7 +5,7 @@ Salve! come si può intuire dal titolo, questo è il repository che uso per cari
 Implemento applicazioni in **React.js** e in **Node** come back-end. 
 
 
-## Necessario scaricare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
+## Necessario installare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
 ### Esecuzione progetti react
 
 
