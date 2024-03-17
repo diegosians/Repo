@@ -39,12 +39,7 @@ cd "cartella a scelta"
 node script.js
 ```
 
-#
-#
-#
-#
-#
-#
+
 
 ## License
 
