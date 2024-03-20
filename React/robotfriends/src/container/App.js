@@ -51,7 +51,6 @@ function App() {
         (
             <div className="tc">
                 <h1>RoboFriends</h1>
-                <button onClick={() => { setCount(count + 1); console.log(count) }}>Clicca qui</button>
                 <SearchBox searchChange={onSearchChange} />
                 <Scroll>
                     <CardList robots={filteredRobots} />

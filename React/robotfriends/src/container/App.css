@@ -3,10 +3,10 @@
     font-style: normal;
     font-weight: normal;
     src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
-    }
+}
 
-    h1{
-        font-family: 'SEGA LOGO FONT';
-        font-weight: normal;
-        color: #9e3b32;
-    }
+h1 {
+    font-family: 'SEGA LOGO FONT';
+    font-weight: normal;
+    color: #9e3b32;
+}
