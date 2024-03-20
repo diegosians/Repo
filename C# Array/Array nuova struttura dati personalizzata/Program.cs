@@ -12,7 +12,6 @@ internal class Program
         array.Push("Senape");
         array.Append(false);
         array.Append("$");
-
         array.Pop();
         array.Pop();
         array.Pop();
