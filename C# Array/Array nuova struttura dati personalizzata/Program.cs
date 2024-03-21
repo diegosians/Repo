@@ -7,7 +7,7 @@ internal class Program
     {
 //  il parametro di valore bool permette di scegliere se il nostro oggetto
 //  deve avere lo stile dell'array o meno in fase di costruzione
-        MioArray array = new MioArray(false);
+        Vettore array = new Vettore(false);
         
         Object[] messaggio = {"My phone number:", 39, 3713936694};
         
