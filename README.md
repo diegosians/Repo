@@ -6,7 +6,7 @@ Implemento applicazioni web in **React.js** e utilizzo **ASP.net core C#** come 
 ## My data structure
 il linguaggio che in questi giorni utilizzo per lavorare sulle
 strutture dati sopra presenti è C#.
-
+***
 
 ## My frontend app
 
@@ -55,7 +55,7 @@ cd "incolla nome cartella"
 ```sh
 node script.js
 ```
-
+***
 
 
 ## License
