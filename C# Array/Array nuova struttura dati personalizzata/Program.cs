@@ -1,5 +1,5 @@
 ﻿// Array personalizzato
-namespace MioArray;
+namespace Vettore;
 
 internal class Program
 {

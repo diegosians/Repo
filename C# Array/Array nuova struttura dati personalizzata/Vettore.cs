@@ -1,9 +1,9 @@
 // Array personalizzato
 
 
-namespace MioArray
+namespace Vettore
 {
-    class MioArray
+    class Vettore
     {
         public int Length;
         private Object[] data;
