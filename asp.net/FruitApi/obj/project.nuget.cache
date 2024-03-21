@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "todeTFiuEIkkwSCSuVbrAndSS9hxcnFipCb4KpNcm1slC/wP199RMGMRE8GehZIwOjSmtHp2M2iFcMbPK7klCQ==",
+  "dgSpecHash": "kxcaYVY9nKkredCgryJ90MIxlkyaAXDznySHZBpoX/QNxF7OSl685tUxfiVbC+xDW401eeYbYoUS4cInHXfw8g==",
   "success": true,
   "projectFilePath": "/home/diego/Documenti/Repo/asp.net/FruitApi/FruitAPI.csproj",
   "expectedPackageFiles": [
@@ -25,7 +25,10 @@
     "/home/diego/.nuget/packages/swashbuckle.aspnetcore.annotations/6.5.0/swashbuckle.aspnetcore.annotations.6.5.0.nupkg.sha512",
     "/home/diego/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
     "/home/diego/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "/home/diego/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+    "/home/diego/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/diego/.nuget/packages/microsoft.netcore.app.ref/7.0.17/microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "/home/diego/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.17/microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "/home/diego/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.17/microsoft.netcore.app.host.linux-x64.7.0.17.nupkg.sha512"
   ],
   "logs": []
 }
