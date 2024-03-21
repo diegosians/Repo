@@ -1,13 +1,13 @@
+Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** in programmazione funzionale e paradigma di programmazione orientato agli oggetti (OOP)  commentati;
+Implemento applicazioni web in **React.js** e utilizzo **ASP.net core C#** per il backend. 
+
+
 # My data structure
 
 
 
+
 # My web development
-
-
-Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** in programmazione funzionale e paradigma di programmazione orientato agli oggetti (OOP)  commentati;
-Implemento applicazioni web in **React.js** e utilizzo **ASP.net core C#** per il backend. 
-
 
 ## Necessario installare almeno [Node.js](https://nodejs.org/en) e [npx](https://create-react-app.dev/docs/getting-started)
 ### Esecuzione progetti react
