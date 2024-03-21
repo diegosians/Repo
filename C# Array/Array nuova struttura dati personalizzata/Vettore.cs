@@ -8,7 +8,7 @@ namespace Vettore
         public int Length;
         private Object[] data;
         public bool con_stile;
-        public MioArray(bool con_o_senza_stile)             // Qui è il costruttore
+        public Vettore(bool con_o_senza_stile)             // Qui è il costruttore
         {
             this.data = new Object[0];
             Length = this.data.Length;
