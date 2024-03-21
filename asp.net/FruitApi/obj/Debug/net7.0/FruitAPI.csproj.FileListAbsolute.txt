@@ -30,9 +30,9 @@
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/staticwebassets.build.json
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/staticwebassets.development.json
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/scopedcss/bundle/FruitAPI.styles.css
-/home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/FruitAPI.csproj.CopyComplete
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/FruitAPI.dll
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/refint/FruitAPI.dll
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/FruitAPI.pdb
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/FruitAPI.genruntimeconfig.cache
 /home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/ref/FruitAPI.dll
+/home/diego/Documenti/Repo/asp.net/FruitApi/obj/Debug/net7.0/FruitAPI.csproj.CopyComplete
