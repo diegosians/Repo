@@ -5,18 +5,19 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        MioArray array = new MioArray();
-        array.Push(7);
-        array.Push("Arancia");
-        array.Push(true);
-        array.Push("Senape");
-        array.Append(false);
-        array.Append("$");
-        array.Pop();
-        array.Pop();
-        array.Pop();
+//  il parametro di valore bool permette di scegliere se il nostro oggetto
+//  deve avere lo stile dell'array o meno in fase di costruzione
+        MioArray array = new MioArray(false);
+        
+        Object[] messaggio = {"My phone number:", 39, 3713936694};
+        
+        array.Aggiungi(messaggio);
 
-        Console.Write(array.ToString());
+        array.RimuoviUltimo();
+
+        array.Spingi(3394172276);
+
+        Console.WriteLine(array.ToString());
 
     }
 }
