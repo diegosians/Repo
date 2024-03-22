@@ -1,12 +1,21 @@
 // Questo è il mio metodo per la funzione Reverse() di una stringa
 
-string Reverse(string str)
+static string Reverse(string str)
 {
-    char[] strArray = str.ToCharArray();
-    str = "";
-    for (int i = strArray.Length - 1; i >= 0; i--)
+    if (str.Length < 2)
     {
-        str += strArray[i];
+
+        return str;
+    }
+    else
+    {
+        char[] strArray = str.ToCharArray();
+        str = "";
+        for (int i = strArray.Length - 1; i >= 0; i--)
+        {
+            str += strArray[i];
+
+        }
     }
     return str;
 }
