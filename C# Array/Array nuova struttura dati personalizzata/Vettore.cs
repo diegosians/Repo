@@ -43,7 +43,7 @@ public class Vettore
         for (int i = 0; i < obj.Length; i++) { this.data[i] = obj[i]; }
         for (int i = obj.Length; i < Length; i++) { this.data[i] = data[i - obj.Length]; }
     }
-    public void Aggiungi<Object>(Object[] arg)
+    public void Aggiungi<T>(T[] arg)
     {
         Length += arg.Length;
         object[] data = this.data;
