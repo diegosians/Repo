@@ -1,3 +1,5 @@
+
+
 namespace Vettore
 {
 public class Vettore
@@ -35,6 +37,26 @@ public class Vettore
         }
         this.data[Length - 1] = obj;
     }
+    
+    
+    
+    public void Concatena(params Array[] args )
+    {   
+        int indice = args.Length;
+        foreach(Array array in  args)
+        {
+            foreach(Object obj in array)
+            {
+                Spingi(obj);
+            }
+        }
+    }
+
+
+
+
+    
+
     public void Aggiungi(params Object[] obj)
     {
         Length += obj.Length;
@@ -43,26 +65,9 @@ public class Vettore
         for (int i = 0; i < obj.Length; i++) { this.data[i] = obj[i]; }
         for (int i = obj.Length; i < Length; i++) { this.data[i] = data[i - obj.Length]; }
     }
-    public void Aggiungi<T>(T[] arg)
-    {
-        Length += arg.Length;
-        object[] data = this.data;
-        this.data = new object[Length];
-        for (int i = 0; i < arg.Length; i++)
-        {
-#pragma warning disable CS8601 
-            this.data[i] = arg[i];
-#pragma warning restore CS8601 
-        }
-
-        for (int i = arg.Length; i < Length; i++)
-        {
-            this.data[i] = data[i - arg.Length];
-        }
-    }
 
 
-    public void RimuoviUltimo()
+    public void Rimuovi()
     {
         Length--;
         Object[] data = this.data;
@@ -72,6 +77,17 @@ public class Vettore
             this.data[i] = data[i];
         }
 
+    }
+
+    public void Rimuovine(int n)
+    {
+        Length -= n;
+        Object[] data = this.data;
+        this.data = new Object[Length];
+        for (int i = 0; i < Length; i++) 
+        { 
+            this.data[i] = data[i]; 
+        }
     }
 
 
