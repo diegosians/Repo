@@ -4,8 +4,7 @@ Implemento applicazioni web in **React.js** e utilizzo **ASP.net core C#** come 
 ***
 
 ## My data structure
-il linguaggio che in questi giorni utilizzo per lavorare sulle
-strutture dati sopra presenti è C#.
+in questi giorni lavoro molto sulle strutture dati.
 ***
 
 ## My frontend app
