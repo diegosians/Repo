@@ -1,10 +1,10 @@
 # Introduction to my web development
 Salve! come si può intuire dal titolo, questo è il repository che uso per caricare tutti i giorni i progetti che sviluppo per migliroare le mie skills. Rimangono file **JavaScript** in programmazione funzionale e paradigma di programmazione orientato agli oggetti (OOP)  commentati;
-Implemento applicazioni web in **React.js** e utilizzo **ASP.net core C#** come backend. 
+Implemento applicazioni web in **React.ts** e utilizzo **Node.ts** come backend. 
 ***
 
 ## My data structure
-in questi giorni lavoro molto sulle strutture dati.
+Il linguaggio che in questi giorni utilizzo per lavorare sulle strutture dati è TypeScript
 ***
 
 ## My frontend app
